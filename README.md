@@ -1,1 +1,1 @@
-# SE-Project
+# FYP Management System
